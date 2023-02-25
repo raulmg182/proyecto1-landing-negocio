@@ -5,3 +5,7 @@
 .fondo {
     background-image: url("https://i.pinimg.com/736x/a8/dc/1a/a8dc1a0801fb1d7304be0173f4757b81.jpg");
 }
+
+ul {
+    list-style: none;
+}
