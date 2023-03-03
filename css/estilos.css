@@ -6,8 +6,17 @@
     background-image: url("https://i.pinimg.com/736x/a8/dc/1a/a8dc1a0801fb1d7304be0173f4757b81.jpg");
 }
 
+.separador {
+    height: 60vh;
+    padding: 30px;
+}
+
 ul {
     list-style: none;
+}
+
+.adicionales {
+    background-color: pink;
 }
 
 .pie-pagina {
@@ -48,18 +57,18 @@ ul {
 .pie-pagina .grupo-1 .box .red-social a {
     display: inline-block;
     text-decoration: none;
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     line-height: 45px;
-    color: red;
+    color: black;
     margin-right: 10px;
-    background-color: black;
+    background-color: white;
     text-align: center;
     transition: all 300ms ease;
 }
 
 .pie-pagina .grupo-1 .red-social a:hover {
-    color: aqua;
+    color: rgb(246, 71, 100);
 }
 
 .pie-pagina .grupo-2 {
